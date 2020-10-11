@@ -17,3 +17,8 @@
    Solution :- [9. Palindrome Number](https://github.com/Mustafiz04/LeetCode-Solution/blob/master/9_Palindrome_Number.java)
    <br>
    
+| S.No | Question Link | Solution | Difficulty |
+| ---------- | ----- | ------------ | ---------: |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [1 Two Sum](https://github.com/Mustafiz04/LeetCode-Solution/blob/master/1_Two_Sum.java) | Easy |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [2. Add Two Numbers](https://github.com/Mustafiz04/LeetCode-Solution/blob/master/2_Add_Two_Numbers.java) | Medium |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [3. Longest Substring Without Repeating Characters](./3_Longest_Substring_Without_Repeating_Characters.java/) | Medium |
