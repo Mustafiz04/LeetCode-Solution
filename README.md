@@ -17,8 +17,11 @@
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [19. Remove Nth Node From End of List](./19_Remove_Nth_Node_From_End_of_List.java/) | **Medium** |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [20. Valid Parentheses](./20_Valid_Parentheses.java/) | **Easy** |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [21. Merge Two Sorted Lists](./21_Merge_Two_Sorted_Lists.java/) | **Easy** |
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [22. Generate Parentheses](./22_Generate_Parentheses.java/) | **Easy** |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [24. Swap Nodes in Pairs](./24_Swap_Nodes_in_Pairs.java/) | **Medium** |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [26. Remove Duplicates from Sorted Array](./26_Remove_Duplicates_from_Sorted_Array.java/) | **Easy** |
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [27. Remove Element](./27_Remove_Element.java/) | **Easy** |
+| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [50. Pow(x, n)](./50_Pow(x, n).java/) | **Easy** |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [53. Maximum Subarray](./53_Maximum_Subarray.java/) | **Easy** |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [62. Unique Paths](./62_Unique_Paths.java/) | **Medium** | 
 | 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [63. Unique Paths II](./63_Unique_Paths_II.java/) | **Medium** | 
@@ -62,6 +65,7 @@
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [235. Lowest Common Ancestor of a Binary Search Tree](./235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.java/) | **Easy** |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [237. Delete Node in a Linked List](./237_Delete_Node_in_a_Linked_List.java/) | **Easy** |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [238. Product of Array Except Self](./238_Product_of_Array_Except_Self.java/) | **Medium** |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [242. Valid Anagram](./242_Valid_Anagram.java/) | **Easy** |
 | 244 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [344. Reverse String](./344_Reverse_String.java/) | **Easy** |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [268. Missing Number](./268_Missing_Number.java/) | **Easy** |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [283. Move Zeroes](./283_Move_Zeroes.java/) | **Easy** |
@@ -72,6 +76,7 @@
 | 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [442. Find All Duplicates in an Array](./442_Find_All_Duplicates_in_an_Array.java/) | **Medium** |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [496. Next Greater Element I](./496_Next_Greater_Element_I.java/) | **Easy** |
 | 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [503. Next Greater Element II](./503_Next_Greater_Element_II.java/) | **Medium** |
+| 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [509. Fibonacci Number](./509_Fibonacci_Number.java/) | **Medium** |
 | 525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/)  | [525. Contiguous Array](./525_Contiguous_Array.java/) | **Medium** |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)  | [543. Diameter of Binary Tree](./543_Diameter_of_Binary_Tree.java/) | **Easy** |
 | 559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)  | [559. Maximum Depth of N-ary Tree](./559_Maximum_Depth_of_N-ary_Tree.java/) | **Easy** |
