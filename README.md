@@ -21,8 +21,14 @@
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [24. Swap Nodes in Pairs](./24_Swap_Nodes_in_Pairs.java/) | **Medium** |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [26. Remove Duplicates from Sorted Array](./26_Remove_Duplicates_from_Sorted_Array.java/) | **Easy** |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [27. Remove Element](./27_Remove_Element.java/) | **Easy** |
-| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [50. Pow(x, n)](./50_Pow(x, n).java/) | **Easy** |
+| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [33. Search in Rotated Sorted Array](./33_Search_in_Rotated_Sorted_Array.java/) | **Medium** |
+| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [34. Find First and Last Position of Element in Sorted Array](./34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.java/) | **Medium** |
+| 35 | [Search Insert Position](https://leetcode.com/problems/'search-insert-position/) | [35. Search Insert Position](./35_Search_Insert_Position.java/) | **Easy** |
+| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [42. Trapping Rain Water](./42_Trapping_Rain_Water.java/) | **Hard** |
+| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [50. Pow(x, n)](./50_Pow_x_n.java/) | **Easy** |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [53. Maximum Subarray](./53_Maximum_Subarray.java/) | **Easy** |
+| 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [54. Spiral Matrix](./54_Spiral_Matrix.java/) | **Medium** |
+| 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [59. Spiral Matrix II](./59_Spiral_Matrix_II.java/) | **Medium** |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [62. Unique Paths](./62_Unique_Paths.java/) | **Medium** | 
 | 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [63. Unique Paths II](./63_Unique_Paths_II.java/) | **Medium** | 
 | 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [64. Minimum Path Sum](./64_Minimum_Path_Sum.java/) | **Medium** | 
