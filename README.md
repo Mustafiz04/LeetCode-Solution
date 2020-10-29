@@ -24,7 +24,11 @@
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [33. Search in Rotated Sorted Array](./33_Search_in_Rotated_Sorted_Array.java/) | **Medium** |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [34. Find First and Last Position of Element in Sorted Array](./34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.java/) | **Medium** |
 | 35 | [Search Insert Position](https://leetcode.com/problems/'search-insert-position/) | [35. Search Insert Position](./35_Search_Insert_Position.java/) | **Easy** |
+| 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [41. First Missing Positive](./41_First_Missing_Positive.java/) | **Hard** |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [42. Trapping Rain Water](./42_Trapping_Rain_Water.java/) | **Hard** |
+| 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [43. Multiply Strings](./43_Multiply_Strings.java/) | **Medium** |
+| 46 | [Permutations](https://leetcode.com/problems/permutations/) | [46. Permutations](./46_Permutations.java/) | **Medium** |
+| 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [48. Rotate Image](./48_Rotate_Image.java/) | **Medium** |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [50. Pow(x, n)](./50_Pow_x_n.java/) | **Easy** |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [53. Maximum Subarray](./53_Maximum_Subarray.java/) | **Easy** |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [54. Spiral Matrix](./54_Spiral_Matrix.java/) | **Medium** |
@@ -54,11 +58,13 @@
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [142. Linked List Cycle II](./142_Linked_List_Cycle_II.java/) | **Medium** |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [144. Binary Tree Preorder Traversal](./144_Binary_Tree_Preorder_Traversal.java/) | **Medium** |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [145. Binary Tree Postorder Traversal](./145_Binary_Tree_Postorder_Traversal.java/) | **Medium** |
+| 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [150. Evaluate Reverse Polish Notation](./150_Evaluate_Reverse_Polish_Notation.java/) | **Medium** |
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [152. Maximum Product Subarray](./152_Maximum_Product_Subarray.java/) | **Medium** |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [160. Intersection of Two Linked Lists](./160_Intersection_of_Two_Linked_Lists.java/) | **Easy** |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [167. Two Sum II - Input array is sorted](./167_Two_Sum_II_Input_array_is_sorted.java/) | **Easy** |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [169. Majority Element](./169_Majority_Element.java/) | **Easy** |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [189. Rotate Array](./189_Rotate_Array.java/) | **Medium** |
+| 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [200. Number of Islands](./200_Number_of_Islands.java/) | **Medium** |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [202. Happy Number](./202_Happy_Number.java/) | **Easy** |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [203. Remove Linked List Elements](./203_Remove_Linked_List_Elements.java/) | **Easy** |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [206. Reverse Linked List](./206_Reverse_Linked_List.java/) | **Easy** |
