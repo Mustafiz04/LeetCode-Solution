@@ -14,6 +14,7 @@
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [12. Integer to Roman](./12_Integer_to_Roman.java/) | **Medium** |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [13. Roman to Integer](./13_Roman_to_Integer.java/) | **Easy** |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [14. Longest Common Prefix](./14_Longest_Common_Prefix.java/) | **Easy** |
+| 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [17. Letter Combinations of a Phone Number](./17_Letter_Combinations_of_a_Phone_Number.java/) | **Medium** |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [19. Remove Nth Node From End of List](./19_Remove_Nth_Node_From_End_of_List.java/) | **Medium** |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [20. Valid Parentheses](./20_Valid_Parentheses.java/) | **Easy** |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [21. Merge Two Sorted Lists](./21_Merge_Two_Sorted_Lists.java/) | **Easy** |
@@ -24,12 +25,16 @@
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [33. Search in Rotated Sorted Array](./33_Search_in_Rotated_Sorted_Array.java/) | **Medium** |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [34. Find First and Last Position of Element in Sorted Array](./34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.java/) | **Medium** |
 | 35 | [Search Insert Position](https://leetcode.com/problems/'search-insert-position/) | [35. Search Insert Position](./35_Search_Insert_Position.java/) | **Easy** |
+| 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [36. Valid Sudoku](./36_Valid_Sudoku.java/) | **Medium** |
+| 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [37. Sudoku Solver](./37_Sudoku_Solver.java/) | **Hard** |
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [41. First Missing Positive](./41_First_Missing_Positive.java/) | **Hard** |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [42. Trapping Rain Water](./42_Trapping_Rain_Water.java/) | **Hard** |
 | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [43. Multiply Strings](./43_Multiply_Strings.java/) | **Medium** |
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | [46. Permutations](./46_Permutations.java/) | **Medium** |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [48. Rotate Image](./48_Rotate_Image.java/) | **Medium** |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [50. Pow(x, n)](./50_Pow_x_n.java/) | **Easy** |
+| 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | [51. N-Queens](./51_N-Queens.java/) | **Hard** |
+| 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [52. N-Queens II](./52_N-Queens_II.java/) | **Hard** |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [53. Maximum Subarray](./53_Maximum_Subarray.java/) | **Easy** |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [54. Spiral Matrix](./54_Spiral_Matrix.java/) | **Medium** |
 | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [59. Spiral Matrix II](./59_Spiral_Matrix_II.java/) | **Medium** |
@@ -40,6 +45,7 @@
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [83. Remove Duplicates from Sorted List](./83_Remove_Duplicates_from_Sorted_List.java/) | **Easy** | 
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [94. Binary Tree Inorder Traversal](./94_Binary_Tree_Inorder_Traversal.java/) | **Medium** | 
 | 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [96. Unique Binary Search Trees](./96_Unique_Binary_Search_Trees.java/) | **Medium** | 
+| 99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [99. Recover Binary Search Tree](./99_Recover_Binary_Search_Tree.java/) | **Hard** | 
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [100. Same Tree](./100_Same_Tree.java/) | **Easy** | 
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [101. Symmetric Tree](./101_Symmetric_Tree.java/) | **Easy** | 
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [102. Binary Tree Level Order Traversal](./102_Binary_Tree_Level_Order_Traversal.java/) | **Medium** | 
@@ -59,8 +65,13 @@
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [144. Binary Tree Preorder Traversal](./144_Binary_Tree_Preorder_Traversal.java/) | **Medium** |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [145. Binary Tree Postorder Traversal](./145_Binary_Tree_Postorder_Traversal.java/) | **Medium** |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [150. Evaluate Reverse Polish Notation](./150_Evaluate_Reverse_Polish_Notation.java/) | **Medium** |
+| 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [151. Reverse Words in a String](./151_Reverse_Words_in_a_String.java/) | **Medium** |
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [152. Maximum Product Subarray](./152_Maximum_Product_Subarray.java/) | **Medium** |
+| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [153. Find Minimum in Rotated Sorted Array](./153_Find_Minimum_in_Rotated_Sorted_Array.java/) | **Medium** |
+| 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [154. Find Minimum in Rotated Sorted Array II](./154_Find_Minimum_in_Rotated_Sorted_Array_II.java/) | **Hard** |
+| 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [155. Min Stack](./155_Min_Stack.java/) | **Easy** |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [160. Intersection of Two Linked Lists](./160_Intersection_of_Two_Linked_Lists.java/) | **Easy** |
+| 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [162. Find Peak Element](./162_Find_Peak_Element.java/) | **Medium** |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [167. Two Sum II - Input array is sorted](./167_Two_Sum_II_Input_array_is_sorted.java/) | **Easy** |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [169. Majority Element](./169_Majority_Element.java/) | **Easy** |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [189. Rotate Array](./189_Rotate_Array.java/) | **Medium** |
@@ -96,10 +107,14 @@
 | 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)  | [589. N-ary Tree Preorder Traversal](./589_N-ary_Tree_Preorder_Traversal.java/) | **Easy** |
 | 590 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)  | [590. N-ary Tree Postorder Traversal](./590_N-ary_Tree_Postorder_Traversal.java/) | **Easy** |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)  | [617. Merge Two Binary Trees](./617_Merge_Two_Binary_Trees.java/) | **Easy** |
+| 673 | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)  | [673. Number of Longest Increasing Subsequence](./673_Number_of_Longest_Increasing_Subsequence.java/) | **Medium** |
+| 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)  | [674. Longest Continuous Increasing Subsequence](./674_Longest_Continuous_Increasing_Subsequence.java/) | **Easy** |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/)  | [709. To Lower Case](./709_To_Lower_Case.java/) | **Easy** |
 | 713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)  | [713. Subarray Product Less Than K](./713_Subarray_Product_Less_Than_K.java/) | **Medium** |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)  | [724. Find Pivot Index](./724_Find_Pivot_Index.java/) | **Easy** |
 | 740 | [Binary Search](https://leetcode.com/problems/binary-search/)  | [704. Binary Search](./704_Binary_Search.java/) | **Easy** |
+| 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)  | [852. Peak Index in a Mountain Array](./852_Peak_Index_in_a_Mountain_Array.java/) | **Easy** |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)  | [876. Middle of the Linked List](./876_Middle_of_the_Linked_List.java/) | **Easy** |
 | 1019 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)  | [1019. Next Greater Node In Linked List](./1019_Next_Greater_Node_In_Linked_List.java/) | **Medium** |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)  | [1207_Unique_Number_of_Occurrences](./1207_Unique_Number_of_Occurrences.java/) | **Easy** |
+| 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)  | [1290. Convert Binary Number in a Linked List to Integer](./1290_Convert_Binary_Number_in_a_Linked_List_to_Integer.java/) | **Easy** |
