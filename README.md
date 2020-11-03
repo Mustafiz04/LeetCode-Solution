@@ -31,16 +31,20 @@
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [42. Trapping Rain Water](./42_Trapping_Rain_Water.java/) | **Hard** |
 | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [43. Multiply Strings](./43_Multiply_Strings.java/) | **Medium** |
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | [46. Permutations](./46_Permutations.java/) | **Medium** |
+| 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [47. Permutations II](./47_Permutations_II.java/) | **Medium** |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [48. Rotate Image](./48_Rotate_Image.java/) | **Medium** |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [50. Pow(x, n)](./50_Pow_x_n.java/) | **Easy** |
 | 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | [51. N-Queens](./51_N-Queens.java/) | **Hard** |
 | 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [52. N-Queens II](./52_N-Queens_II.java/) | **Hard** |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [53. Maximum Subarray](./53_Maximum_Subarray.java/) | **Easy** |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [54. Spiral Matrix](./54_Spiral_Matrix.java/) | **Medium** |
+| 58 | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [58. Length of Last Word](./58_Length_of_Last_Word.java/) | **Easy** |
 | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [59. Spiral Matrix II](./59_Spiral_Matrix_II.java/) | **Medium** |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [62. Unique Paths](./62_Unique_Paths.java/) | **Medium** | 
 | 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [63. Unique Paths II](./63_Unique_Paths_II.java/) | **Medium** | 
 | 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [64. Minimum Path Sum](./64_Minimum_Path_Sum.java/) | **Medium** | 
+| 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [66. Plus One](./66_Plus_One.java/) | **Easy** | 
+| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [69. Sqrt(x)](./69. Sqrt_x.java/) | **Easy** | 
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [82. Remove Duplicates from Sorted List II](./82_Remove_Duplicates_from_Sorted_List_II.java/) | **Medium** | 
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [83. Remove Duplicates from Sorted List](./83_Remove_Duplicates_from_Sorted_List.java/) | **Easy** | 
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [94. Binary Tree Inorder Traversal](./94_Binary_Tree_Inorder_Traversal.java/) | **Medium** | 
@@ -139,3 +143,4 @@
 | 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)  | [1179. Reformat Department Table](./1179_Reformat_Department_Table.sql/) | **Easy** |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)  | [1207_Unique_Number_of_Occurrences](./1207_Unique_Number_of_Occurrences.java/) | **Easy** |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)  | [1290. Convert Binary Number in a Linked List to Integer](./1290_Convert_Binary_Number_in_a_Linked_List_to_Integer.java/) | **Easy** |
+| 1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)  | [1446. Consecutive Characters](./1446_Consecutive_Characters.java/) | **Easy** |
