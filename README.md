@@ -78,9 +78,12 @@
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [175. Combine Two Tables](./175_Combine_Two_Tables.sql/) | **Easy** |
 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [176. Second Highest Salary](./176_Second_Highest_Salary.sql/) | **Easy** |
 | 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | [177. Nth Highest Salary](./177_Nth_Highest_Salary.sql/) | **Medium** |
+| 178 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | [178. Rank Scores](./178_Rank_Scores.sql/) | **Medium** |
 | 180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | [180. Consecutive Numbers](./180_Consecutive_Numbers.sql/) | **Medium** |
+| 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [181. Employees Earning More Than Their Managers](./181_Employees_Earning_More_Than_Their_Managers.sql/) | **Easy** |
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [182. Duplicate Emails](./182_Duplicate_Emails.sql/) | **Easy** |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [183. Customers Who Never Order](./183_Customers_Who_Never_Order.sql/) | **Easy** |
+| 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [184. Department Highest Salary](./184_Department_Highest_Salary.sql/) | **Medium** |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [189. Rotate Array](./189_Rotate_Array.java/) | **Medium** |
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [196. Delete Duplicate Emails](./196_Delete_Duplicate_Emails.sql/) | **Easy** |
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [197. Rising Temperature](./197_Rising_Temperature.sql/) | **Easy** |
@@ -119,7 +122,9 @@
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)  | [560. Subarray Sum Equals K](./560_Subarray_Sum_Equals_K.java/) | **Medium** |
 | 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)  | [589. N-ary Tree Preorder Traversal](./589_N-ary_Tree_Preorder_Traversal.java/) | **Easy** |
 | 590 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)  | [590. N-ary Tree Postorder Traversal](./590_N-ary_Tree_Postorder_Traversal.java/) | **Easy** |
+| 595 | [Big Countries](https://leetcode.com/problems/big-countries/)  | [595. Big Countries](./595_Big_Countries.sql/) | **Easy** |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)  | [617. Merge Two Binary Trees](./617_Merge_Two_Binary_Trees.java/) | **Easy** |
+| 620 | [620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)  | [620. Not Boring Movies](./620_Not_Boring_Movies.sql/) | **Easy** |
 | 673 | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)  | [673. Number of Longest Increasing Subsequence](./673_Number_of_Longest_Increasing_Subsequence.java/) | **Medium** |
 | 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)  | [674. Longest Continuous Increasing Subsequence](./674_Longest_Continuous_Increasing_Subsequence.java/) | **Easy** |
 | 705 | [Design HashSet](https://leetcode.com/problems/design-hashset/)  | [705. Design HashSet](./705_Design_HashSet.java/) | **Easy** |
@@ -131,5 +136,6 @@
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)  | [852. Peak Index in a Mountain Array](./852_Peak_Index_in_a_Mountain_Array.java/) | **Easy** |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)  | [876. Middle of the Linked List](./876_Middle_of_the_Linked_List.java/) | **Easy** |
 | 1019 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)  | [1019. Next Greater Node In Linked List](./1019_Next_Greater_Node_In_Linked_List.java/) | **Medium** |
+| 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)  | [1179. Reformat Department Table](./1179_Reformat_Department_Table.sql/) | **Easy** |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)  | [1207_Unique_Number_of_Occurrences](./1207_Unique_Number_of_Occurrences.java/) | **Easy** |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)  | [1290. Convert Binary Number in a Linked List to Integer](./1290_Convert_Binary_Number_in_a_Linked_List_to_Integer.java/) | **Easy** |
