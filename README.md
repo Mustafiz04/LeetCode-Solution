@@ -96,9 +96,11 @@
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [200. Number of Islands](./200_Number_of_Islands.java/) | **Medium** |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [202. Happy Number](./202_Happy_Number.java/) | **Easy** |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [203. Remove Linked List Elements](./203_Remove_Linked_List_Elements.java/) | **Easy** |
+| 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [205. Isomorphic Strings](./205_Isomorphic_Strings.java/) | **Easy** |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [206. Reverse Linked List](./206_Reverse_Linked_List.java/) | **Easy** |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [215. Kth Largest Element in an Array](./215_Kth_Largest_Element_in_an_Array.java/) | **Medium** |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [217. Contains Duplicate](./217_Contains_Duplicate.java/) | **Easy** |
+| 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [219. Contains Duplicate II](./219_Contains_Duplicate_II.java/) | **Easy** |
 | 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [222. Count Complete Tree Nodes](./222_Count_Complete_Tree_Nodes.java/) | **Easy** |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [226. Invert Binary Tree](./226_Invert_Binary_Tree.java/) | **Easy** |
 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [230. Kth Smallest Element in a BST](./230_Kth_Smallest_Element_in_a_BST.java/) | **Medium** |
