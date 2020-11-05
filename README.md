@@ -22,6 +22,7 @@
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [24. Swap Nodes in Pairs](./24_Swap_Nodes_in_Pairs.java/) | **Medium** |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [26. Remove Duplicates from Sorted Array](./26_Remove_Duplicates_from_Sorted_Array.java/) | **Easy** |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [27. Remove Element](./27_Remove_Element.java/) | **Easy** |
+| 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [31. Next Permutation](./31_Next_Permutation.java/) | **Easy** |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [33. Search in Rotated Sorted Array](./33_Search_in_Rotated_Sorted_Array.java/) | **Medium** |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [34. Find First and Last Position of Element in Sorted Array](./34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.java/) | **Medium** |
 | 35 | [Search Insert Position](https://leetcode.com/problems/'search-insert-position/) | [35. Search Insert Position](./35_Search_Insert_Position.java/) | **Easy** |
@@ -44,9 +45,11 @@
 | 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [63. Unique Paths II](./63_Unique_Paths_II.java/) | **Medium** | 
 | 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [64. Minimum Path Sum](./64_Minimum_Path_Sum.java/) | **Medium** | 
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [66. Plus One](./66_Plus_One.java/) | **Easy** | 
-| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [69. Sqrt(x)](./69. Sqrt_x.java/) | **Easy** | 
+| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [69. Sqrt(x)](./69_Sqrt_x.java/) | **Easy** | 
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [75. Sort Colors](./75_Sort_Colors.java/) | **Medium** | 
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [82. Remove Duplicates from Sorted List II](./82_Remove_Duplicates_from_Sorted_List_II.java/) | **Medium** | 
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [83. Remove Duplicates from Sorted List](./83_Remove_Duplicates_from_Sorted_List.java/) | **Easy** | 
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [88. Merge Sorted Array](./88_Merge_Sorted_Array.java/) | **Easy** | 
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [94. Binary Tree Inorder Traversal](./94_Binary_Tree_Inorder_Traversal.java/) | **Medium** | 
 | 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [96. Unique Binary Search Trees](./96_Unique_Binary_Search_Trees.java/) | **Medium** | 
 | 99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [99. Recover Binary Search Tree](./99_Recover_Binary_Search_Tree.java/) | **Hard** | 
@@ -61,6 +64,9 @@
 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [111. Minimum Depth of Binary Tree](./111_Minimum_Depth_of_Binary_Tree.java/) | **Easy** | 
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [112. Path Sum](./112_Path_Sum.java/) | **Easy** | 
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [118. Pascal's Triangle](./118_Pascal's_Triangle.java/) | **Easy** | 
+| 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [119. Pascal's Triangle II](./119_Pascal's_Triangle_II.java/) | **Easy** | 
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [121. Best Time to Buy and Sell Stock](./121_Best_Time_to_Buy_and_Sell_Stock.java/) | **Easy** | 
+| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [121. Best Time to Buy and Sell Stock II](./121_Best_Time_to_Buy_and_Sell_Stock_ii.java/) | **Easy** | 
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [125. Valid Palindrome](./125_Valid_Palindrome.java/) | **Easy** | 
 | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [129. Sum Root to Leaf Numbers](./129_Sum_Root_to_Leaf_Numbers.java/) | **Medium** | 
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [136. Single Number](./136_Single_Number.java/) | **Easy** |
@@ -122,6 +128,7 @@
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [496. Next Greater Element I](./496_Next_Greater_Element_I.java/) | **Easy** |
 | 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [503. Next Greater Element II](./503_Next_Greater_Element_II.java/) | **Medium** |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [509. Fibonacci Number](./509_Fibonacci_Number.java/) | **Medium** |
+| 513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [513. Find Bottom Left Tree Value](./513_Find_Bottom_Left_Tree_Value.java/) | **Medium** |
 | 525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/)  | [525. Contiguous Array](./525_Contiguous_Array.java/) | **Medium** |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)  | [543. Diameter of Binary Tree](./543_Diameter_of_Binary_Tree.java/) | **Easy** |
 | 559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)  | [559. Maximum Depth of N-ary Tree](./559_Maximum_Depth_of_N-ary_Tree.java/) | **Easy** |
@@ -130,7 +137,7 @@
 | 590 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)  | [590. N-ary Tree Postorder Traversal](./590_N-ary_Tree_Postorder_Traversal.java/) | **Easy** |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/)  | [595. Big Countries](./595_Big_Countries.sql/) | **Easy** |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)  | [617. Merge Two Binary Trees](./617_Merge_Two_Binary_Trees.java/) | **Easy** |
-| 620 | [620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)  | [620. Not Boring Movies](./620_Not_Boring_Movies.sql/) | **Easy** |
+| 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)  | [620. Not Boring Movies](./620_Not_Boring_Movies.sql/) | **Easy** |
 | 673 | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)  | [673. Number of Longest Increasing Subsequence](./673_Number_of_Longest_Increasing_Subsequence.java/) | **Medium** |
 | 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)  | [674. Longest Continuous Increasing Subsequence](./674_Longest_Continuous_Increasing_Subsequence.java/) | **Easy** |
 | 705 | [Design HashSet](https://leetcode.com/problems/design-hashset/)  | [705. Design HashSet](./705_Design_HashSet.java/) | **Easy** |
@@ -141,6 +148,7 @@
 | 740 | [Binary Search](https://leetcode.com/problems/binary-search/)  | [704. Binary Search](./704_Binary_Search.java/) | **Easy** |
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)  | [852. Peak Index in a Mountain Array](./852_Peak_Index_in_a_Mountain_Array.java/) | **Easy** |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)  | [876. Middle of the Linked List](./876_Middle_of_the_Linked_List.java/) | **Easy** |
+| 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)  | [977. Squares of a Sorted Array](./977_Squares_of_a_Sorted_Array.java/) | **Easy** |
 | 1019 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)  | [1019. Next Greater Node In Linked List](./1019_Next_Greater_Node_In_Linked_List.java/) | **Medium** |
 | 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)  | [1179. Reformat Department Table](./1179_Reformat_Department_Table.sql/) | **Easy** |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)  | [1207_Unique_Number_of_Occurrences](./1207_Unique_Number_of_Occurrences.java/) | **Easy** |
