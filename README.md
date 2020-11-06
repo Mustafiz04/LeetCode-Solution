@@ -63,11 +63,14 @@
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [110. Balanced Binary Tree](./110_Balanced_Binary_Tree.java/) | **Easy** |
 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [111. Minimum Depth of Binary Tree](./111_Minimum_Depth_of_Binary_Tree.java/) | **Easy** | 
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [112. Path Sum](./112_Path_Sum.java/) | **Easy** | 
+| 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [116. Populating Next Right Pointers in Each Node](./116_Populating_Next_Right_Pointers_in_Each_Node.java/) | **Medium** | 
+| 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [116. Populating Next Right Pointers in Each Node II](./116_Populating_Next_Right_Pointers_in_Each_Node_ii.java/) | **Medium** | 
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [118. Pascal's Triangle](./118_Pascal's_Triangle.java/) | **Easy** | 
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [119. Pascal's Triangle II](./119_Pascal's_Triangle_II.java/) | **Easy** | 
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [121. Best Time to Buy and Sell Stock](./121_Best_Time_to_Buy_and_Sell_Stock.java/) | **Easy** | 
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [121. Best Time to Buy and Sell Stock II](./121_Best_Time_to_Buy_and_Sell_Stock_ii.java/) | **Easy** | 
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [125. Valid Palindrome](./125_Valid_Palindrome.java/) | **Easy** | 
+| 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [128. Longest Consecutive Sequence](./128_Longest_Consecutive_Sequence.java/) | **Hard** | 
 | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [129. Sum Root to Leaf Numbers](./129_Sum_Root_to_Leaf_Numbers.java/) | **Medium** | 
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [136. Single Number](./136_Single_Number.java/) | **Easy** |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [141. Linked List Cycle](./141_Linked_List_Cycle.java/) | **Easy** |
@@ -89,6 +92,7 @@
 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [176. Second Highest Salary](./176_Second_Highest_Salary.sql/) | **Easy** |
 | 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | [177. Nth Highest Salary](./177_Nth_Highest_Salary.sql/) | **Medium** |
 | 178 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | [178. Rank Scores](./178_Rank_Scores.sql/) | **Medium** |
+| 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | [179. Largest Number](./179_Largest_Number.java/) | **Medium** |
 | 180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | [180. Consecutive Numbers](./180_Consecutive_Numbers.sql/) | **Medium** |
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [181. Employees Earning More Than Their Managers](./181_Employees_Earning_More_Than_Their_Managers.sql/) | **Easy** |
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [182. Duplicate Emails](./182_Duplicate_Emails.sql/) | **Easy** |
@@ -102,6 +106,7 @@
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [200. Number of Islands](./200_Number_of_Islands.java/) | **Medium** |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [202. Happy Number](./202_Happy_Number.java/) | **Easy** |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [203. Remove Linked List Elements](./203_Remove_Linked_List_Elements.java/) | **Easy** |
+| 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [204. Count Primes](./204_Count_Primes.java/) | **Easy** |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [205. Isomorphic Strings](./205_Isomorphic_Strings.java/) | **Easy** |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [206. Reverse Linked List](./206_Reverse_Linked_List.java/) | **Easy** |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [215. Kth Largest Element in an Array](./215_Kth_Largest_Element_in_an_Array.java/) | **Medium** |
