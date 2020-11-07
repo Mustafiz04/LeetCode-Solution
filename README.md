@@ -19,6 +19,7 @@
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [20. Valid Parentheses](./20_Valid_Parentheses.java/) | **Easy** |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [21. Merge Two Sorted Lists](./21_Merge_Two_Sorted_Lists.java/) | **Easy** |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [22. Generate Parentheses](./22_Generate_Parentheses.java/) | **Easy** |
+| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [23. Merge k Sorted Lists](./23_Merge_k_Sorted_Lists.java/) | **Hard** |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [24. Swap Nodes in Pairs](./24_Swap_Nodes_in_Pairs.java/) | **Medium** |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [26. Remove Duplicates from Sorted Array](./26_Remove_Duplicates_from_Sorted_Array.java/) | **Easy** |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [27. Remove Element](./27_Remove_Element.java/) | **Easy** |
@@ -39,7 +40,7 @@
 | 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [52. N-Queens II](./52_N-Queens_II.java/) | **Hard** |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [53. Maximum Subarray](./53_Maximum_Subarray.java/) | **Easy** |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [54. Spiral Matrix](./54_Spiral_Matrix.java/) | **Medium** |
-| 58 | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [58. Length of Last Word](./58_Length_of_Last_Word.java/) | **Easy** |
+| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [58. Length of Last Word](./58_Length_of_Last_Word.java/) | **Easy** |
 | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [59. Spiral Matrix II](./59_Spiral_Matrix_II.java/) | **Medium** |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [62. Unique Paths](./62_Unique_Paths.java/) | **Medium** | 
 | 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [63. Unique Paths II](./63_Unique_Paths_II.java/) | **Medium** | 
@@ -130,6 +131,7 @@
 | 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [404. Sum of Left Leaves](./404_Sum_of_Left_Leaves.java/) | **Easy** |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [414. Third Maximum Number](./414_Third_Maximum_Number.java/) | **Easy** |
 | 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [442. Find All Duplicates in an Array](./442_Find_All_Duplicates_in_an_Array.java/) | **Medium** |
+| 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [445. Add Two Numbers II](./445_Add_Two_Numbers_II.java/) | **Medium** |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [496. Next Greater Element I](./496_Next_Greater_Element_I.java/) | **Easy** |
 | 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [503. Next Greater Element II](./503_Next_Greater_Element_II.java/) | **Medium** |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [509. Fibonacci Number](./509_Fibonacci_Number.java/) | **Medium** |
