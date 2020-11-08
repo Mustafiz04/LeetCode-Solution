@@ -140,6 +140,7 @@
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)  | [543. Diameter of Binary Tree](./543_Diameter_of_Binary_Tree.java/) | **Easy** |
 | 559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)  | [559. Maximum Depth of N-ary Tree](./559_Maximum_Depth_of_N-ary_Tree.java/) | **Easy** |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)  | [560. Subarray Sum Equals K](./560_Subarray_Sum_Equals_K.java/) | **Medium** |
+| 563 | [563. Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)  | [563. Binary Tree Tilt](./563_Binary_Tree_Tilt.java/) | **Easy** |
 | 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)  | [589. N-ary Tree Preorder Traversal](./589_N-ary_Tree_Preorder_Traversal.java/) | **Easy** |
 | 590 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)  | [590. N-ary Tree Postorder Traversal](./590_N-ary_Tree_Postorder_Traversal.java/) | **Easy** |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/)  | [595. Big Countries](./595_Big_Countries.sql/) | **Easy** |
@@ -161,3 +162,4 @@
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)  | [1207_Unique_Number_of_Occurrences](./1207_Unique_Number_of_Occurrences.java/) | **Easy** |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)  | [1290. Convert Binary Number in a Linked List to Integer](./1290_Convert_Binary_Number_in_a_Linked_List_to_Integer.java/) | **Easy** |
 | 1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)  | [1446. Consecutive Characters](./1446_Consecutive_Characters.java/) | **Easy** |
+| 1646 | [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)  | [1646. Get Maximum in Generated Array](./1646_Get_Maximum_in_Generated_Array.java/) | **Easy** |
