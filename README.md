@@ -53,6 +53,7 @@
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [88. Merge Sorted Array](./88_Merge_Sorted_Array.java/) | **Easy** | 
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [94. Binary Tree Inorder Traversal](./94_Binary_Tree_Inorder_Traversal.java/) | **Medium** | 
 | 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [96. Unique Binary Search Trees](./96_Unique_Binary_Search_Trees.java/) | **Medium** | 
+| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [98. Validate Binary Search Tree](./98_Validate_Binary_Search_Tree.java/) | **Medium** | 
 | 99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [99. Recover Binary Search Tree](./99_Recover_Binary_Search_Tree.java/) | **Hard** | 
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [100. Same Tree](./100_Same_Tree.java/) | **Easy** | 
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [101. Symmetric Tree](./101_Symmetric_Tree.java/) | **Easy** | 
@@ -140,7 +141,7 @@
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)  | [543. Diameter of Binary Tree](./543_Diameter_of_Binary_Tree.java/) | **Easy** |
 | 559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)  | [559. Maximum Depth of N-ary Tree](./559_Maximum_Depth_of_N-ary_Tree.java/) | **Easy** |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)  | [560. Subarray Sum Equals K](./560_Subarray_Sum_Equals_K.java/) | **Medium** |
-| 563 | [563. Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)  | [563. Binary Tree Tilt](./563_Binary_Tree_Tilt.java/) | **Easy** |
+| 563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)  | [563. Binary Tree Tilt](./563_Binary_Tree_Tilt.java/) | **Easy** |
 | 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)  | [589. N-ary Tree Preorder Traversal](./589_N-ary_Tree_Preorder_Traversal.java/) | **Easy** |
 | 590 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)  | [590. N-ary Tree Postorder Traversal](./590_N-ary_Tree_Postorder_Traversal.java/) | **Easy** |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/)  | [595. Big Countries](./595_Big_Countries.sql/) | **Easy** |
@@ -154,10 +155,12 @@
 | 713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)  | [713. Subarray Product Less Than K](./713_Subarray_Product_Less_Than_K.java/) | **Medium** |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)  | [724. Find Pivot Index](./724_Find_Pivot_Index.java/) | **Easy** |
 | 740 | [Binary Search](https://leetcode.com/problems/binary-search/)  | [704. Binary Search](./704_Binary_Search.java/) | **Easy** |
+| 732 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)  | [832. Flipping an Image](./832_Flipping_an_Image.java/) | **Easy** |
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)  | [852. Peak Index in a Mountain Array](./852_Peak_Index_in_a_Mountain_Array.java/) | **Easy** |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)  | [876. Middle of the Linked List](./876_Middle_of_the_Linked_List.java/) | **Easy** |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)  | [977. Squares of a Sorted Array](./977_Squares_of_a_Sorted_Array.java/) | **Easy** |
 | 1019 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)  | [1019. Next Greater Node In Linked List](./1019_Next_Greater_Node_In_Linked_List.java/) | **Medium** |
+| 1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)  | [1026. Maximum Difference Between Node and Ancestor](./1026_Maximum_Difference_Between_Node_and_Ancestor.java/) | **Easy** |
 | 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)  | [1179. Reformat Department Table](./1179_Reformat_Department_Table.sql/) | **Easy** |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)  | [1207_Unique_Number_of_Occurrences](./1207_Unique_Number_of_Occurrences.java/) | **Easy** |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)  | [1290. Convert Binary Number in a Linked List to Integer](./1290_Convert_Binary_Number_in_a_Linked_List_to_Integer.java/) | **Easy** |
