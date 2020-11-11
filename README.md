@@ -144,6 +144,7 @@
 | 563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)  | [563. Binary Tree Tilt](./563_Binary_Tree_Tilt.java/) | **Easy** |
 | 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)  | [589. N-ary Tree Preorder Traversal](./589_N-ary_Tree_Preorder_Traversal.java/) | **Easy** |
 | 590 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)  | [590. N-ary Tree Postorder Traversal](./590_N-ary_Tree_Postorder_Traversal.java/) | **Easy** |
+| 593 | [Valid Square](https://leetcode.com/problems/valid-square/)  | [593. Valid Square](./593_Valid_Square.java/) | **Medium** |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/)  | [595. Big Countries](./595_Big_Countries.sql/) | **Easy** |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)  | [617. Merge Two Binary Trees](./617_Merge_Two_Binary_Trees.java/) | **Easy** |
 | 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)  | [620. Not Boring Movies](./620_Not_Boring_Movies.sql/) | **Easy** |
