@@ -133,6 +133,7 @@
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [414. Third Maximum Number](./414_Third_Maximum_Number.java/) | **Easy** |
 | 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [442. Find All Duplicates in an Array](./442_Find_All_Duplicates_in_an_Array.java/) | **Medium** |
 | 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [445. Add Two Numbers II](./445_Add_Two_Numbers_II.java/) | **Medium** |
+| 458 | [Poor Pigs](https://leetcode.com/problems/poor-pigs/) | [458. Poor Pigs](./458_Poor_Pigs.java/) | **Hard** |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [496. Next Greater Element I](./496_Next_Greater_Element_I.java/) | **Easy** |
 | 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [503. Next Greater Element II](./503_Next_Greater_Element_II.java/) | **Medium** |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [509. Fibonacci Number](./509_Fibonacci_Number.java/) | **Medium** |
