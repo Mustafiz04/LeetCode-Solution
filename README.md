@@ -160,6 +160,7 @@
 | 732 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)  | [832. Flipping an Image](./832_Flipping_an_Image.java/) | **Easy** |
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)  | [852. Peak Index in a Mountain Array](./852_Peak_Index_in_a_Mountain_Array.java/) | **Easy** |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)  | [876. Middle of the Linked List](./876_Middle_of_the_Linked_List.java/) | **Easy** |
+| 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)  | [938. Range Sum of BST](./938_Range_Sum_of_BST.java/) | **Easy** |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)  | [977. Squares of a Sorted Array](./977_Squares_of_a_Sorted_Array.java/) | **Easy** |
 | 1019 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)  | [1019. Next Greater Node In Linked List](./1019_Next_Greater_Node_In_Linked_List.java/) | **Medium** |
 | 1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)  | [1026. Maximum Difference Between Node and Ancestor](./1026_Maximum_Difference_Between_Node_and_Ancestor.java/) | **Easy** |
