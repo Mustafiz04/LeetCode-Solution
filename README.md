@@ -40,6 +40,7 @@
 | 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [52. N-Queens II](./52_N-Queens_II.java/) | **Hard** |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [53. Maximum Subarray](./53_Maximum_Subarray.java/) | **Easy** |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [54. Spiral Matrix](./54_Spiral_Matrix.java/) | **Medium** |
+| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [56. Merge Intervals(./56_Merge_Intervals.java/) | **Medium** |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [58. Length of Last Word](./58_Length_of_Last_Word.java/) | **Easy** |
 | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [59. Spiral Matrix II](./59_Spiral_Matrix_II.java/) | **Medium** |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [62. Unique Paths](./62_Unique_Paths.java/) | **Medium** | 
