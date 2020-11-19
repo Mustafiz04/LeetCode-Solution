@@ -130,6 +130,7 @@
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [300. Longest Increasing Subsequence](./300_Longest_Increasing_Subsequence.java/) | **Medium** |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [344. Reverse String](./344_Reverse_String.java/) | **Easy** |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [387. First Unique Character in a String](./387_First_Unique_Character_in_a_String.java/) | **Easy** |
+| 394 | [Decode String](https://leetcode.com/problems/decode-string/) | [394. Decode String](./394_Decode_String.java/) | **Medium** |
 | 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [404. Sum of Left Leaves](./404_Sum_of_Left_Leaves.java/) | **Easy** |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [414. Third Maximum Number](./414_Third_Maximum_Number.java/) | **Easy** |
 | 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [442. Find All Duplicates in an Array](./442_Find_All_Duplicates_in_an_Array.java/) | **Medium** |
