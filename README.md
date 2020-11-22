@@ -160,6 +160,7 @@
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)  | [724. Find Pivot Index](./724_Find_Pivot_Index.java/) | **Easy** |
 | 740 | [Binary Search](https://leetcode.com/problems/binary-search/)  | [704. Binary Search](./704_Binary_Search.java/) | **Easy** |
 | 732 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)  | [832. Flipping an Image](./832_Flipping_an_Image.java/) | **Easy** |
+| 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)  | [804. Unique Morse Code Words](./804_Unique_Morse_Code_Words.java/) | **Easy** |
 | 845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)  | [845. Longest Mountain in Array](./845_Longest_Mountain_in_Array.java/) | **Medium** |
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)  | [852. Peak Index in a Mountain Array](./852_Peak_Index_in_a_Mountain_Array.java/) | **Easy** |
 | 858 | [858. Mirror Reflection](https://leetcode.com/problems/mirror-reflection/)  | [858. Mirror Reflection](./858_Mirror_Reflection.java/) | **Medium** |
