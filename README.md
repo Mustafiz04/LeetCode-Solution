@@ -170,6 +170,7 @@
 | 902 | [Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/)  | [902. Numbers At Most N Given Digit Set](./902_Numbers_At_Most_N_Given_Digit_Set.java/) | **Hard** |
 | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)  | [938. Range Sum of BST](./938_Range_Sum_of_BST.java/) | **Easy** |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)  | [977. Squares of a Sorted Array](./977_Squares_of_a_Sorted_Array.java/) | **Easy** |
+| 1015 | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/)  | [1015. Smallest Integer Divisible by K](./1015_Smallest_Integer_Divisible_by_K.java/) | **Medium** |
 | 1019 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)  | [1019. Next Greater Node In Linked List](./1019_Next_Greater_Node_In_Linked_List.java/) | **Medium** |
 | 1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)  | [1026. Maximum Difference Between Node and Ancestor](./1026_Maximum_Difference_Between_Node_and_Ancestor.java/) | **Easy** |
 | 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)  | [1179. Reformat Department Table](./1179_Reformat_Department_Table.sql/) | **Easy** |
