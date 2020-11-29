@@ -179,5 +179,6 @@
 | 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)  | [1179. Reformat Department Table](./1179_Reformat_Department_Table.sql/) | **Easy** |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)  | [1207_Unique_Number_of_Occurrences](./1207_Unique_Number_of_Occurrences.java/) | **Easy** |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)  | [1290. Convert Binary Number in a Linked List to Integer](./1290_Convert_Binary_Number_in_a_Linked_List_to_Integer.java/) | **Easy** |
+| 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/)  | [1306. Jump Game III](./1306_Jump_Game_III.java/) | **Medium** |
 | 1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)  | [1446. Consecutive Characters](./1446_Consecutive_Characters.java/) | **Easy** |
 | 1646 | [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)  | [1646. Get Maximum in Generated Array](./1646_Get_Maximum_in_Generated_Array.java/) | **Easy** |
