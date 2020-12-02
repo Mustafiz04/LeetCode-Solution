@@ -133,6 +133,7 @@
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [300. Longest Increasing Subsequence](./300_Longest_Increasing_Subsequence.java/) | **Medium** |
 | 337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | [337. House Robber III](./337_House_Robber_III.java/) | **Medium** |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [344. Reverse String](./344_Reverse_String.java/) | **Easy** |
+| 382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [382. Linked List Random Node](./382_Linked_List_Random_Node.java/) | **Medium** |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [387. First Unique Character in a String](./387_First_Unique_Character_in_a_String.java/) | **Easy** |
 | 394 | [Decode String](https://leetcode.com/problems/decode-string/) | [394. Decode String](./394_Decode_String.java/) | **Medium** |
 | 395 | [Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | [395. Longest Substring with At Least K Repeating Characters](./395_Longest_Substring_with_At_Least_K_Repeating_Characters.java/) | **Medium** |
