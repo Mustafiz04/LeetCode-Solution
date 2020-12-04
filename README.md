@@ -184,4 +184,5 @@
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)  | [1290. Convert Binary Number in a Linked List to Integer](./1290_Convert_Binary_Number_in_a_Linked_List_to_Integer.java/) | **Easy** |
 | 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/)  | [1306. Jump Game III](./1306_Jump_Game_III.java/) | **Medium** |
 | 1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)  | [1446. Consecutive Characters](./1446_Consecutive_Characters.java/) | **Easy** |
+| 1492 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/)  | [1492. The kth Factor of n](./1492_The_kth_Factor_of_n.java/) | **Medium** |
 | 1646 | [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)  | [1646. Get Maximum in Generated Array](./1646_Get_Maximum_in_Generated_Array.java/) | **Easy** |
